@@ -1,0 +1,213 @@
+.formcontact-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.formcontact-formcontact {
+  gap: 40px;
+  width: 1384px;
+  height: auto;
+  display: flex;
+  padding: 40px;
+  overflow: hidden;
+  box-shadow: 0px 12px 32px 0px rgba(55, 129, 189, 0.10000000149011612) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 24px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutrals-8);
+}
+.formcontact-text {
+  color: var(--dl-color-primary-9);
+  height: auto;
+  text-align: left;
+  line-height: 120.00000476837158%;
+}
+.formcontact-frame999 {
+  gap: 16px;
+  width: 1123px;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.formcontact-frame998 {
+  gap: 24px;
+  width: 1122px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.formcontact-frame996 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+}
+.formcontact-simpleinput {
+  gap: 12px;
+  width: 756px;
+  height: 71px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.formcontact-text02 {
+  color: rgba(177, 181, 195, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.formcontact-text03 {
+  color: var(--dl-color-neutrals-5);
+}
+.formcontact-singleinputfield {
+  gap: 10px;
+  top: 23px;
+  left: 0px;
+  color: rgba(119, 126, 144, 1);
+  width: 756px;
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 14px;
+  align-self: stretch;
+  text-align: left;
+  align-items: center;
+  flex-shrink: 0;
+  font-family: Be Vietnam Pro;
+  font-weight: 500;
+  border-color: rgba(230, 232, 236, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 12px;
+}
+.formcontact-simpleinput1 {
+  gap: 12px;
+  width: 347px;
+  height: 71px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.formcontact-text04 {
+  color: rgba(177, 181, 195, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.formcontact-text05 {
+  color: var(--dl-color-neutrals-5);
+}
+.formcontact-singleinputfield1 {
+  gap: 10px;
+  top: 23px;
+  left: 0px;
+  color: rgba(119, 126, 144, 1);
+  width: 347px;
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 14px;
+  align-self: stretch;
+  text-align: left;
+  align-items: center;
+  flex-shrink: 0;
+  font-family: Be Vietnam Pro;
+  font-weight: 500;
+  border-color: rgba(230, 232, 236, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 12px;
+}
+.formcontact-dropdown {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(230, 232, 236, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 12px;
+  justify-content: space-between;
+  background-color: var(--dl-color-neutrals-8);
+}
+.formcontact-frame900 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.formcontact-text06 {
+  color: var(--dl-color-neutrals-4);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.formcontact-fisranglesmalldown {
+  width: 24px;
+  height: 24px;
+}
+.formcontact-frame995 {
+  gap: 4px;
+  width: 1122px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.formcontact-text08 {
+  color: rgba(177, 181, 195, 1);
+  height: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.formcontact-text09 {
+  color: var(--dl-color-neutrals-5);
+}
+.formcontact-singleinputfield2 {
+  gap: 10px;
+  color: rgba(119, 126, 144, 1);
+  width: 1122px;
+  height: 349px;
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  font-size: 14px;
+  text-align: left;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: Be Vietnam Pro;
+  font-weight: 500;
+  border-color: rgba(230, 232, 236, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 12px;
+}
+.formcontact-button {
+  gap: 8px;
+  display: flex;
+  padding: 12px 32px;
+  align-items: center;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: var(--dl-color-primary-6branding);
+}
+.formcontact-text10 {
+  color: var(--dl-color-neutrals-8);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}

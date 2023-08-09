@@ -1,0 +1,178 @@
+.main-forrm-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.main-forrm-main-forrm {
+  width: 481px;
+  height: 471px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(230, 232, 236, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px;
+  background-color: var(--dl-color-neutrals-8);
+}
+.main-forrm-frame967 {
+  gap: 12px;
+  top: 94px;
+  left: 40px;
+  width: 401px;
+  height: 182px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.main-forrm-simpleinput {
+  gap: 12px;
+  width: 401px;
+  height: 94px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-forrm-text {
+  color: var(--dl-color-neutrals-5);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.main-forrm-text02 {
+  top: 75px;
+  color: var(--dl-color-secondary-6branding);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.main-forrm-singleinputfield {
+  gap: 10px;
+  top: 23px;
+  left: 0px;
+  width: 401px;
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  position: absolute;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  border-color: rgba(225, 94, 80, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 12px;
+}
+.main-forrm-frame825 {
+  gap: 10px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: space-between;
+}
+.main-forrm-text04 {
+  color: var(--dl-color-secondary-6branding);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.main-forrm-icons-close-circle-filled {
+  width: 24px;
+  height: 24px;
+}
+.main-forrm-simpleinput1 {
+  gap: 12px;
+  width: 401px;
+  height: 71px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.main-forrm-text06 {
+  color: var(--dl-color-neutrals-5);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.main-forrm-singleinputfield1 {
+  gap: 10px;
+  top: 23px;
+  left: 0px;
+  width: 401px;
+  display: flex;
+  padding: 12px 16px;
+  overflow: hidden;
+  position: absolute;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 12px;
+}
+.main-forrm-singleinputfield1:focus {
+  border-color: rgba(58, 113, 253, 1);
+  outline: rgba(58, 113, 253, 1);
+}
+.main-forrm-cursor {
+  width: 1px;
+  height: 24px;
+  border-radius: 100px;
+}
+.main-forrm-text08 {
+  color: var(--dl-color-neutrals-5);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 150%;
+}
+.main-forrm-text09 {
+  top: 39px;
+  left: 197px;
+  color: var(--dl-color-neutrals-1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 139.9999976158142%;
+}
+.main-forrm-button {
+  gap: 8px;
+  top: 293px;
+  left: 40px;
+  width: 401px;
+  display: flex;
+  padding: 12px 32px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: var(--dl-color-primary-6branding);
+}
+.main-forrm-text11 {
+  color: var(--dl-color-neutrals-8);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+input.main-forrm-text04.DeskopBodySmallTextMedium {
+  border: none;
+  outline: none;
+  width: 100%;
+}
